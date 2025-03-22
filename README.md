@@ -8,5 +8,5 @@
   </a>
   <br>
   <samp>
-    <br><img src="https://komarev.com/ghpvc/?username=7liar">
+    <br><img src="https://komarev.com/ghpvc/?username=b2xw">
   </samp>
